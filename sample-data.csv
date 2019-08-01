@@ -1,0 +1,87 @@
+Rank,City,Population,Definition,Total area (km squared),Population density (/km),Country
+1,Chongqing,"30,165,500",Municipality,"82,403",366,China
+2,Shanghai,"24,183,300",Municipality,"6,340.5","3,814",China
+3,Beijing,"21,707,000",Municipality,"16,411","1,267",China
+4,Istanbul,"15,029,231",Metropolitan municipality,"5,196","2,893",Turkey
+5,Karachi,"14,910,352",City,"3,780","3,944",Pakistan
+6,Dhaka,"14,399,000",Capital city,337.54,"42,659",Bangladesh
+7,Tokyo,"13,515,271",Capital city,626.99,"21,556",Japan
+8,Moscow,"13,200,000",Federal city,"2,511","5,256",Russia
+9,Guangzhou,"13,081,000",City(sub-provincial),"7,434","1,760",China
+10,Shenzhen,"12,528,300",City(sub-provincial),"1,992","6,889",China
+11,Mumbai,"12,442,373",City,437.71,"28,426",India
+12,So Paulo,"12,038,000",Municipality,"1,081.05","11,199",Brazil
+13,Kinshasa,"11,462,000",City province,473.73,"24,195",Democratic Republic of the Congo
+14,Tianjin,"11,249,000",Municipality,"11,920",944,China
+15,Lahore,"11,126,000",Metropolitan area,502.55,"22,139",Pakistan
+16,Delhi,"11,034,555",Capital city,461.83,"23,893",India
+17,Jakarta,"10,624,000",Special capital region,661.5,"16,060",Indonesia
+18,Dongguan,"10,615,000",City,"2,460","4,315",China
+19,Seoul,"9,806,000",Special city,605.25,"16,202",South Korea
+20,Foshan,"9,279,000",City,"3,797","2,444",China
+21,Chengdu,"9,012,000",City(sub-provincial),"14,312",630,China
+22,Lima,"8,894,000",Capital city,"2,672","3,329",Peru
+23,Mexico City,"8,918,653",Capital city,607.22,"14,616",Mexico
+24,London,"8,825,001",Capital city,"1,572","5,614",United Kingdom
+25,Tehran,"8,694,000",Capital city,574.13,"15,143",Iran
+26,Bangalore,"8,443,675",City,709,"11,909",India
+27,New York,"8,398,748",City,786.3,"10,681",United States
+28,Shenyang,"8,106,171",City(sub-provincial),"12,980",625,China
+29,Wuhan,"8,035,000",City(sub-provincial),"8,494",946,China
+30,Bogot,"7,963,000",Capital District,428.26,"18,594",Colombia
+31,Ningbo,"7,605,689",City(sub-provincial),"9,816.23",775,China
+32,Cairo,"7,601,018",City,302.56,"25,582",Egypt
+33,Ho Chi Minh City,"7,431,000",City,453.60,"16,382",Vietnam
+34,Hong Kong,"7,298,600",Special administrative region,"1,104.43","6,608",China
+35,Nanjing,"7,260,000",City(sub-provincial),"6,582","1,103",China
+36,Hanoi,"7,232,700",Metropolitan municipality-province,"3,324.5","2,176",Vietnam
+37,Changsha,"7,044,118",City,"11,819",596,China
+38,Hangzhou,"7,035,000",City(sub-provincial),850.83,"8,268",China
+39,Hyderabad,"6,993,262",City,651.75,"11,494",India
+40,Baghdad,"6,793,000",Metropolis,424.53,"16,001",Iraq
+41,Chennai,"6,727,000",Municipal corporation,426.51,"15,772",India
+42,Riyadh,"6,694,000",City,410.97,"16,288",Saudi Arabia
+43,Rio de Janeiro,"6,520,000",Municipality,751.44,"8,677",Brazil
+44,Xi'an,"6,220,000",City(sub-provincial),"10,135",614,China
+45,Suzhou,"5,983,000",City,"8,488",705,China
+46,Bangkok,"5,782,000",Special administrative area,764.73,"7,561",Thailand
+47,Singapore,"5,607,000",City,602.75,"9,302",Singapore
+48,Ahmedabad,"5,570,585",City,351.21,"15,861",India
+49,Santiago,"5,561,000",City,595.49,"9,339",Chile
+50,Shantou,"5,391,028",City,"2,064.42","2,611",China
+51,Saint Petersburg,"5,351,000",City,"1,439","3,719",Russia
+52,Harbin,"5,299,000",City(sub-provincial),614.31,"8,626",China
+53,Dar es Salaam,"5,257,000",City,330.52,"15,905",Tanzania
+54,Yangon,"5,214,000",Metropolitan municipality-province,598.75,"8,708",Myanmar
+55,Johannesburg,"4,949,000",Metropolitan municipality,432.84,"11,434",South Africa
+56,Abidjan,"4,765,000",Department/city district,"2,119","2,249",Ivory Coast
+57,Alexandria,"4,616,625",Governorate,"2,300","2,007",Egypt
+58,Kolkata,"4,496,694",Municipal corporation,185,"24,306",India
+59,Ankara,"4,470,800",Metropolitan municipality-province,"1,910.92","2,340",Turkey
+60,Surat,"4,467,797",Municipal Corporation,336,"13,297",India
+61,Giza,"4,239,988",Governorate,289.08,"14,667",Egypt
+62,Zhengzhou,"4,122,087",City(sub-provincial),"1,015.66","4,059",China
+63,Los Angeles,"3,976,322",Municipalitycity,"1,213.85","3,276",United States
+64,New Taipei City,"3,954,929",Special municipality,"2,052.57","1,927",Taiwan
+65,Cape Town,"3,740,026",Metropolitan municipality,"2,444.97","1,530",South Africa
+66,Yokohama,"3,726,167",Designated city,437.49,"8,517",Japan
+67,Berlin,"3,671,000",City state,891.75,"4,117",Germany
+68,Busan,"3,590,000",Metropolitan city,347.49,"10,331",South Korea
+69,Xiamen,"3,531,347",City(sub-provincial),"1,699","2,078",China
+70,Jeddah,"3,456,259",City,"1,765","1,958",Saudi Arabia
+71,Durban,"3,442,361",Metropolitan municipality,"2,291.31","1,502",South Africa
+72,Kabul,"3,414,100",Municipality city,275,"12,415",Afghanistan
+73,Casablanca,"3,359,818",Prefecture,230,"14,608",Morocco
+74,Hefei,"3,352,076",City,838.52,"3,998",China
+75,Pyongyang,"3,255,388",Direct-controlled municipality,"2,113","1,541",North Korea
+76,Madrid,"3,207,247",Municipality city,605.77,"5,294",Spain
+77,Faisalabad,"3,203,846",City district,214,"14,971",Pakistan
+78,Ekurhuleni,"3,178,470",Metropolitan municipality,"1,975.31","1,609",South Africa
+79,Nairobi,"3,138,369",Capital district,694.9,"4,829",Kenya
+80,Zhongshan,"3,121,275",City,"1,783.67","1,750",China
+81,Pune,"3,115,431",Municipal corporation,450.69,"6,913",India
+82,Addis Ababa,"3,103,673",Metropolitan municipality-province,526.99,"5,889",Ethiopia
+83,Jaipur,"3,073,350",Municipal corporation,485,"6,337",India
+84,Buenos Aires,"3,054,300",Federal district,203,"15,046",Argentina
+85,Wenzhou,"3,039,439",City,"1,187.88","2,559",China
+86,Incheon,"3,002,645",Metropolitan city,328.55,"9,139",South Korea
