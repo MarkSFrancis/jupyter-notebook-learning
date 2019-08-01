@@ -10,3 +10,7 @@ You can find out more about Jupyter Notebook from [their website](https://jupyte
 ## Installation
 
 You can install Jupyter directly from [their website](https://jupyter.org/), or from [Anaconda](https://www.anaconda.com). Anaconda contains a collection of data scientist tools and python, as well as the jupyter notebook platform. Anaconda is also [open source](https://github.com/Anaconda-Platform/anaconda-project).
+
+## Running on Azure Notebooks
+
+Microsoft hosts Jupyter Notebooks. This is called Azure Notebooks. You can find out more about getting started with Azure Notebooks [here](https://docs.microsoft.com/en-us/azure/notebooks/)
